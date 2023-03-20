@@ -1,6 +1,6 @@
 # QR Code Component
 
-## Preview
+### Preview
 
 ### Image
 ![Image](preview-image/image.png)
